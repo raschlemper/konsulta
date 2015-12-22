@@ -1,0 +1,42 @@
+{
+    "name": "admin-teratec",
+    "appPath": "public/",
+    "version": "0.0.1",
+    "dependencies": {
+        "angular": ">=1.4.*",
+        "jquery": "~1.11.0",
+        "bootstrap": "~3.1.1",
+        "angular-animate": ">=1.4.*",
+        "angular-resource": ">=1.4.*",
+        "angular-cookies": ">=1.4.*",
+        "angular-sanitize": ">=1.4.*",
+        "angular-touch": ">=1.4.*",
+        "angular-bootstrap": "~0.11.0",
+        "angular-ui-router": "~0.2.10",
+        "angular-translate": "~2.7.2",
+        "angular-local-storage": "*",
+        "font-awesome": ">=4.1.0",
+        "underscore": "~1.8.3",
+        "underscore.string": "3.2.2",
+        "jquery-countTo": "*"
+    },
+    "authors": [
+        "rafael.schlemper <teratec.company@gmail.com>"
+    ],
+    "moduleType": [
+        "amd"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "lib",
+        "public/bower_components",
+        "test",
+        "tests"
+    ],
+    "resolutions": {
+        "bootstrap": "~3.3.4",
+        "webcomponentsjs": "^0.6.0"
+    }
+}
